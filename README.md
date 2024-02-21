@@ -177,3 +177,11 @@ I am a computer engineering student with a huge passion for web and mobile progr
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+[![Fabio Hernandez's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fabio-Alfredo&theme=github	)](https://github.com/Fabio-Alfredo/github-readme-activity-graph)
+
+ 
+</details>
