@@ -134,8 +134,7 @@ I am a computer engineering student with a huge passion for web and mobile progr
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Apple-black?style=plastic&logo=apple" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Mint-%2387CF3E?style=plastic&logo=linuxmint&logoColor=white
-" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Mint-%2387CF3E?style=plastic&logo=linuxmint&logoColor=white"/></a>
 </p>
 
 <br> 
