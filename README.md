@@ -121,3 +121,23 @@ I am a computer engineering student with a huge passion for web and mobile progr
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Apple-black?style=plastic&logo=apple" /></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Mint-%2387CF3E?style=plastic&logo=linuxmint&logoColor=white
+" /></a>
+</p>
+
+<br> 
+
+---
