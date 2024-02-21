@@ -55,8 +55,13 @@ I am a computer engineering student with a huge passion for web and mobile progr
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="[https://www.java.com](https://kotlinlang.org)" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img alt="Kotlin" src="[https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white](https://img.shields.io/badge/Kotlin-black?style=plastic
+)">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -82,4 +87,38 @@ I am a computer engineering student with a huge passion for web and mobile progr
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+</p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
