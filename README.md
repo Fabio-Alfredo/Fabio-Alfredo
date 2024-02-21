@@ -142,7 +142,6 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----
----
 
 <p align = "center">
 	<a href="#"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
