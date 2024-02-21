@@ -17,6 +17,7 @@ I am a computer engineering student with a huge passion for web and mobile progr
 		<a href = "#">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F05A&random=false&width=435&lines=Informatic+student" alt="Typing SVG" /></a>
 	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
