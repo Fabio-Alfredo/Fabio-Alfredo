@@ -60,8 +60,7 @@ I am a computer engineering student with a huge passion for web and mobile progr
   </a>
   &emsp;
   <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="Kotlin" src="[https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white](https://img.shields.io/badge/Kotlin-black?style=plastic
-)">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-black?style=plastic">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
