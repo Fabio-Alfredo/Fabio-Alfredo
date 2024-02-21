@@ -18,3 +18,9 @@ I am a computer engineering student with a huge passion for web and mobile progr
 
 <br><br>
 
+- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Suez Canal University](http://uca.edu.sv).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+-  :thinking: I’m currently open for a new `job opportunity`.
+<br>
