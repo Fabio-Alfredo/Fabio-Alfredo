@@ -141,16 +141,6 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----
----
-<p align = "center">
-	<a href="#"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
 ----	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabio-Alfredo&theme=tokyonight_duo" alt="7oSkaaa" /></p>
