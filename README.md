@@ -168,7 +168,12 @@
 	<a href="https://github.com/Fabio-Alfredo/library-management-hexagonal-api">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=library-management-hexagonal-api&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/Fabio-Alfredo/NoteMax-api-typescript">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=NoteMax-api-typescript&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+   
   </p>
+  
 </div>
 </details>
 </br></br>
