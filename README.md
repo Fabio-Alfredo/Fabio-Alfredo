@@ -181,5 +181,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src="https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/output/github-contribution-grid-snake.gif" alt = "Snake Game" /> 
+	<img src="https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game" /> 
 </p>
