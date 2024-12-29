@@ -15,10 +15,11 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
--  :thinking: I’m currently open for a new `job opportunity`.
-<br>
+- :thinking: I’m currently open for a new `job opportunity`.
+  <br>
 
 ## <picture> <img src="https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
 <p align="center">
 	<a href="mailto:00210121@uca.edu.sv"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="#"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -29,11 +30,9 @@
 	<a href="#"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-
-### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -62,7 +61,8 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -82,8 +82,8 @@
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
+### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -103,8 +103,8 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
+### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> IDEs
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -116,8 +116,8 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
+### <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> Operating Systems
+
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -139,18 +139,19 @@
 	<a href="#"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/Fabio-Alfredo/Fabio-Alfredo/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+---
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabio-Alfredo&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 </details>
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
+---
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fabio-Alfredo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -162,16 +163,19 @@
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
+---
+
 <div>
   <p align="center">
 	<a href="https://github.com/Fabio-Alfredo/library-management-hexagonal-api">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=library-management-hexagonal-api&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=library-management-hexagonal-api&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 	<a href="https://github.com/Fabio-Alfredo/NoteMax-api-typescript">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=NoteMax-api-typescript&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=NoteMax-api-typescript&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/ActoPedia-backend-express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=NoteMax-api-typescript&theme=tokyonight" alt="GitHub Stats" />
+  </a>
    
   </p>
   
