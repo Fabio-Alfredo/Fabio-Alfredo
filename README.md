@@ -176,6 +176,9 @@
   <a href="https://github.com/Fabio-Alfredo/ActoPedia-backend-express">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=ActoPedia-backend-express&theme=tokyonight" alt="GitHub Stats" />
   </a>
+    <a href="https://github.com/Fabio-Alfredo/Shop-Backend-express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Shop-Backend-express&theme=tokyonight" alt="GitHub Stats" />
+  </a>
    
   </p>
   
