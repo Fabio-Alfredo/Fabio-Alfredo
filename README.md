@@ -179,6 +179,10 @@
     <a href="https://github.com/Fabio-Alfredo/Shop-Backend-express">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Shop-Backend-express&theme=tokyonight" alt="GitHub Stats" />
   </a>
+  </a>
+    <a href="https://github.com/Fabio-Alfredo/SafeHouse-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=SafeHouse-Application&theme=tokyonight" alt="GitHub Stats" />
+  </a>
    
   </p>
   
