@@ -176,12 +176,44 @@
   <a href="https://github.com/Fabio-Alfredo/ActoPedia-backend-express">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=ActoPedia-backend-express&theme=tokyonight" alt="GitHub Stats" />
   </a>
-    <a href="https://github.com/Fabio-Alfredo/Shop-Backend-express">
+  <a href="https://github.com/Fabio-Alfredo/Shop-Backend-express">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Shop-Backend-express&theme=tokyonight" alt="GitHub Stats" />
-  </a>
   </a>
     <a href="https://github.com/Fabio-Alfredo/SafeHouse-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=SafeHouse-Application&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+    <a href="https://github.com/Fabio-Alfredo/ReserVite-Backend-Express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=ReserVite-Backend-Express&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+    <a href="https://github.com/Fabio-Alfredo/ChatMind-Backend-Express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=ChatMind-Backend-Express&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+    <a href="https://github.com/Fabio-Alfredo/Digidoro-Backend-Express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Digidoro-Backend-Express&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+    <a href="https://github.com/Fabio-Alfredo/Senderos-Application-Kotlin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Senderos-Application-Kotlin&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/Filmora-proyect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Filmora-proyect&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/tasks-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=tasks-API&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/Clinic-Application-React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Clinic-Application-React&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/quizz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=quizz&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/list-task">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=list-task&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+   <a href="https://github.com/Fabio-Alfredo/VeloCar-Backend-Express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=VeloCar-Backend-Express&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Fabio-Alfredo/https://github.com/Fabio-Alfredo/Partial-Mobile-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=Partial-Mobile-Programming&theme=tokyonight" alt="GitHub Stats" />
   </a>
    
   </p>
