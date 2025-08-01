@@ -163,6 +163,9 @@
 
 <div>
   <p align="center">
+  <a href="https://github.com/Fabio-Alfredo/MiniTweet-Backend-SpringBoot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=MiniTweet-Backend-SpringBoot&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 	<a href="https://github.com/Fabio-Alfredo/library-management-hexagonal-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabio-Alfredo&repo=library-management-hexagonal-api&theme=tokyonight" alt="GitHub Stats" />
   </a>
